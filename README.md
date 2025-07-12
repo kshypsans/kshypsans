@@ -10,7 +10,7 @@
 
 
 
-🎓 Second-year CSE student  
+🎓 Computer Science Engineering student  
 🌱 Currently diving deep into machine learning models and their applications.  
 💻 Learning new algorithms and techniques to solve real-world problems.  
 🤖 Into Python and AI? Same here.
