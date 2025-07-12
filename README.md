@@ -6,11 +6,10 @@
 
 <h3 align="center">"AI Enthusiast: Exploring the fascinating world of Artificial Intelligence and Machine Learning"</h3>
 
-<br>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbansal8810&label=Profile%20views&color=0e75b6&style=flat" alt="palakbansal8810" /> </p>
 
 
-# 💫 About Me:
+
 🎓 Second-year CSE student  
 🌱 Currently diving deep into machine learning models and their applications.  
 💻 Learning new algorithms and techniques to solve real-world problems.  
@@ -21,7 +20,7 @@
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
 
   <!-- Languages -->
@@ -52,13 +51,16 @@
 <br>
 
 
-# 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshypsans&show_icons=true&locale=en&layout=compact" alt="kshypsans" /></p>
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshypsans&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshypsans&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 <br>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/sanskriti-kashyap-1b134b2a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-sharma-4a3166284/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/kshypsans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amansharma619/" height="30" width="40" /></a>
